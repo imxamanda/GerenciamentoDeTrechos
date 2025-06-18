@@ -1,4 +1,4 @@
 # Gerenciamento De Trechos
 Sistema para gerenciamento de trechos de uma rodovia.
 
-## Passos para rodas o projeto
+## Passos para rodar o projeto
